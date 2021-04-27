@@ -1,4 +1,0 @@
-Fruits
- - Orange
- - Mango
- - Banana
